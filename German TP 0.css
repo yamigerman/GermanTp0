@@ -1,0 +1,48 @@
+body{
+	display: block;
+    margin: 8px;
+    background-color: pink;
+    width:1600px;
+    height: 500px; 
+}
+
+.principal-container{
+	background-color:blue;
+	text-align: center;
+	width: 1500px;
+	height: 600px;
+	margin: auto;	
+
+}
+.img{
+	width: 1480px;
+	height: 440px;
+	background-color: black;
+	margin-top: 15px;
+}
+
+.email{
+	display: inline-block;
+}
+.cuadradito-container{
+	text-align: right;
+	float: right;
+}
+#cuadraditoa{
+	width: 36px;
+	height: 36px;
+	background-color:red;
+}
+#cuadraditob{
+	width: 36px;
+	height: 36px;
+	background-color:yellow;
+}
+#cuadraditoc{
+	width: 36px;
+	height: 36px;
+	background-color:orange;
+}
+h6{
+	text-align: center;
+}
