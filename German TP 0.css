@@ -1,48 +1,56 @@
 body{
 	display: block;
-    margin: 8px;
     background-color: pink;
-    width:1600px;
+    width:500px;
     height: 500px; 
+    
 }
-
 .principal-container{
 	background-color:blue;
 	text-align: center;
 	width: 1500px;
-	height: 600px;
-	margin: auto;	
-
+	height: 500px;	
+	padding-top:70px;
 }
 .img{
 	width: 1480px;
 	height: 440px;
 	background-color: black;
 	margin-top: 15px;
+
 }
 
 .email{
 	display: inline-block;
 }
 .cuadradito-container{
+	width: 1500px;
+	height: 200px;
 	text-align: right;
 	float: right;
+	background-color:green;
+	position: relative;
 }
-#cuadraditoa{
+.cuadradito{
 	width: 36px;
 	height: 36px;
 	background-color:red;
+	float: right;
+	padding-top: 60px;
+	margin-right: 10px;
 }
-#cuadraditob{
-	width: 36px;
-	height: 36px;
-	background-color:yellow;
-}
-#cuadraditoc{
-	width: 36px;
-	height: 36px;
-	background-color:orange;
-}
-h6{
+
+
+.final{
 	text-align: center;
+	background-color:yellow;
+	width: 200px;
+	height: 200px;
+	padding-top: 0px;
+	margin-left: 50%;
 }
+	
+	
+	
+
+
